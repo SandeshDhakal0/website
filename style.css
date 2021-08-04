@@ -1,0 +1,110 @@
+body{
+    align-items: center;
+    align-content: center;
+    background-image: url("new.jpg");
+    background-size: 100% 100%;
+
+}
+p{
+    color: navajowhite;
+    text-align: center;
+
+}
+h1{
+    color: rgb(56, 188, 240);
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h5{
+    color: rgb(56, 188, 240);
+    font-size: 30px;
+    font-style: italic;
+    
+}
+h6{
+    font-size: 30px;
+    color: black;
+}
+h7{
+    font-size: 30px;
+}
+ul {
+    list-style-type: none;
+    margin: auto;
+    padding: auto;
+    right: auto;      
+}
+
+li {    
+    text-decoration-color: whitesmoke;
+    background-color: rgb(195, 218, 228);
+    background-position: 10%;
+    font-size: 15px;
+    float: right;   
+}
+
+li a {
+    color: black;
+    text-decoration-line: none;
+    
+    text-align: right;
+   display: -moz-marker;
+    padding: 20px;
+}
+
+li a:hover{
+    color: grey;
+}
+
+label{
+    text-align: right;
+    color: skyblue;
+}
+
+input[type=text], select {
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  input[type=submit] {
+    width: 15%;
+    color: skyblue;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: rgb(127, 138, 143);
+  }
+  
+  div {
+    
+    border-radius: 15px;
+    padding: 20px;
+    color: skyblue;
+  }
+  
+table {
+    border-collapse: collapse;
+}
+td {
+    text-align: center;
+  }
+  
+  button{
+    margin:6px auto;
+  }
+  
+  
+  
